@@ -1,7 +1,10 @@
 ## Breaking the code
 Currently only the Xerox first pattern model, and partially the quaternary pattern, have been publicly decoded.
-The few selected images in this repo are extracts from the datamining initiative of the EFF, thanks to them. Available on the German Research Center for Intelligence [here](https://madm.dfki.de/files/downloads/mic-bw.zip)(direct download link).
+
+The few selected images in this repo are extracts from the datamining initiative of the EFF, thanks to them. Available on the German Research Center for Intelligence [here](https://madm.dfki.de/files/downloads/mic-bw.zip) (this is a direct download link).
+
 Please note that the followings have been picked up because they seem to have a strongly noticeable pattern, currently none of them have ever been publicly decoded (except the Quaternary pattern partially). More data is needed to decode them - I don't even own a printer.
+
 If you have scans with similar patterns or other strongly noticeable pattern feel free to add them to the list.
 
 ### Scope
