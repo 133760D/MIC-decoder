@@ -2,6 +2,8 @@
 ## About This Project
 This project is a fun initiative. Using native Python libraries, this script can decode simple Machine Identification Code (MIC) patterns from various printers.
 
+![An example of an usage for the docucolor printers](/images/docucolor_example.avif "Example of the docucolor.")
+
 ## Features
 - Decodes MIC patterns from different printers
 - Graphical interface (keyboard accessible)
